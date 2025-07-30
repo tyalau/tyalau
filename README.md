@@ -1,7 +1,9 @@
-<h1 align="center">Hello World 👋, I'm Amy Lau</h1>
+<h1 align="center">Hello World!👋 I'm Amy Lau</h1>
 <h3 align="center">Software Engineer | Full-stack Web Development | React, TypeScript, JavaScript</h3>
 
 - 🌱 I’m currently learning **Next.js**
+
+- 👩‍💻 Know more about me at [https://tyalau.github.io/](https://tyalau.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@tyalau](https://medium.com/@tyalau)
 
