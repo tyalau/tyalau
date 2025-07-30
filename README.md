@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Flood of AI-Generated Tech Articles](https://code.likeagirl.io/the-flood-of-ai-generated-tech-articles-9d562e2a46cb?source=rss-4b904c77addb------2)
+- [Firebase Push Notifications: Everything Works… Until It Doesn’t](https://code.likeagirl.io/firebase-push-notifications-everything-works-until-it-doesnt-d786e5384ed3?source=rss-4b904c77addb------2)
+- [Hard Lessons from a Foreign Engineer in Japan](https://medium.com/new-writers-welcome/hard-lessons-from-a-foreign-engineer-in-japan-8940ec59d0d4?source=rss-4b904c77addb------2)
+- [I Built My Own React Boilerplate](https://medium.com/@tyalau/stop-wasting-time-setting-up-react-i-built-my-own-boilerplate-to-fix-that-903b385afbae?source=rss-4b904c77addb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
