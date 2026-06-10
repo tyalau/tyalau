@@ -1,13 +1,23 @@
-<h1 align="center">Hello World!👋 I'm Amy Lau</h1>
+<h1 align="center">Hello World! 👋 I'm Amy Lau 🇭🇰 | 📍🇯🇵</h1>
 <h3 align="center">Software Engineer | Full-stack Web Development | React, TypeScript, JavaScript</h3>
 
-- 🌱 I’m currently learning **Next.js**
+<p align="center">
+  A passionate software engineer in full-stack experience with TypeScript, React, Node.js, and other cool frameworks and tools.
+  <br />
+  Enjoy building clean, efficient web apps that help me (and others) be productively lazy.
+  <br />
+  Coffee fuels my code, and I love them both equally.
+</p>
+
+- 🔭 I’m currently working on my **Engineering Hub** project.
+
+- 🌱 I’m currently learning [**Radix UI**](https://www.radix-ui.com/) and [**Tailwind CSS**](https://tailwindcss.com/)
 
 - 👩‍💻 Know more about me at [https://tyalau.github.io/](https://tyalau.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@tyalau](https://medium.com/@tyalau)
+- 📝 I used to write articles on [https://medium.com/@tyalau](https://medium.com/@tyalau)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Becoming a Lifelong Tech Learner with Atomic Habits](https://code.likeagirl.io/becoming-a-lifelong-tech-learner-with-atomic-habits-6f2045796742?source=rss-4b904c77addb------2)
 - [The Flood of AI-Generated Tech Articles](https://code.likeagirl.io/the-flood-of-ai-generated-tech-articles-9d562e2a46cb?source=rss-4b904c77addb------2)
@@ -15,13 +25,36 @@
 - [Hard Lessons from a Foreign Engineer in Japan](https://medium.com/new-writers-welcome/hard-lessons-from-a-foreign-engineer-in-japan-8940ec59d0d4?source=rss-4b904c77addb------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tyalau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tyalau" height="30" width="40" /></a>
-<a href="https://medium.com/@tyalau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tyalau" height="30" width="40" /></a>
-</p>
+### Connect with me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyalau/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tyalau)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyalau&show_icons=true&locale=en&layout=compact" alt="tyalau" /></p>
+I prefer these languages and tools, but I'm always eager to learn something new!
+
+### Languages
+
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Frameworks & Libraries
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Material UI](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+
+### Tools
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![pnpm](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tyalau&show_icons=true&locale=en&layout=compact&theme=cobalt)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyalau&show_icons=true&locale=en&theme=cobalt)
