@@ -19,7 +19,6 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Becoming a Lifelong Tech Learner with Atomic Habits](https://code.likeagirl.io/becoming-a-lifelong-tech-learner-with-atomic-habits-6f2045796742?source=rss-4b904c77addb------2)
 - [The Flood of AI-Generated Tech Articles](https://code.likeagirl.io/the-flood-of-ai-generated-tech-articles-9d562e2a46cb?source=rss-4b904c77addb------2)
 - [Firebase Push Notifications: Everything Works… Until It Doesn’t](https://code.likeagirl.io/firebase-push-notifications-everything-works-until-it-doesnt-d786e5384ed3?source=rss-4b904c77addb------2)
 - [Hard Lessons from a Foreign Engineer in Japan](https://medium.com/new-writers-welcome/hard-lessons-from-a-foreign-engineer-in-japan-8940ec59d0d4?source=rss-4b904c77addb------2)
